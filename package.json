@@ -1,0 +1,27 @@
+{
+  "name": "pokedex-typescript-lite",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js com TypeScript para consultar Pokémon na PokeAPI e salvar em um catálogo local.",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "dev": "tsx src/main.ts",
+    "build": "tsc",
+    "preview": "node dist/main.js"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "pokemon",
+    "pokeapi",
+    "senai"
+  ],
+  "author": "Mauricio Petri Junior",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
