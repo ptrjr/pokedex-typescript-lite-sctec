@@ -55,7 +55,7 @@ git clone https://github.com/ptrjr/pokedex-typescript-lite-sctec.git
 Acesse a pasta do projeto:
 
 ```bash
-cd pokedex-typescript-lite
+cd pokedex-typescript-lite-sctec
 ```
 
 Instale as dependências:
