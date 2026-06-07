@@ -49,7 +49,7 @@ Antes de executar o projeto, é necessário ter instalado:
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/ptrjr/pokedex-typescript-lite-sctec.git
 ```
 
 Acesse a pasta do projeto:
@@ -327,7 +327,7 @@ A classe `BoxService` possui:
 Link do Kanban:
 
 ```text
-COLE_AQUI_O_LINK_DO_KANBAN
+https://trello.com/invite/b/6a257299b030999ef5d66782/ATTI0dedc1873013ff1103cbcc02da7f67c88D9C8AFC/pokedex-typescript-lite
 ```
 
 Colunas mínimas sugeridas:
